@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Visionary Assistant",
+  "description": "A powerful AI assistant capable of text conversation and high-quality image generation with chat history persistence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
